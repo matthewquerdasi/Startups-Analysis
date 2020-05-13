@@ -1,5 +1,5 @@
 # Startups-Analysis
-Analysis of Crunchbase startups dataset using R and Shiny package. 
+Analysis of Crunchbase startups dataset using R and Shiny package for QAC 251 Data Visualization class final project. 
 
 Analysis of a Crunchbase dataset containing data on over 50,000 startup companies from countries all over the world. Dataset includes startups from as early as 1902 up until 2014, and includes startups from over 750 unique market industries. 
 
@@ -11,6 +11,7 @@ Files included in repository:
 - Startups_project_analysis.R: file containing all data manipulation and Shiny code 
 - investments_VC.csv: dataset file used for analysis containing all relevant data
 - us_states.json: json file used in Leaflet chloropleth plot 
+- Startups_Analysis_Report.pdf: PDF report of findings 
 
 Note: Dataset originally imported from Kaggle 
 Dataset link: https://www.kaggle.com/arindam235/startup-investments-crunchbase
